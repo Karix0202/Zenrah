@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZenrahPC", "ZenrahPC.csproj", "{C5483595-B018-E281-BF02-D0F93EC0523B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZenrahPC.Plugins", "ZenrahPC.Plugins.csproj", "{D8D68794-171F-1255-6474-DEDD93F75544}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZenrahPC.Editor.Plugins", "ZenrahPC.Editor.Plugins.csproj", "{5D9E6AD6-A751-8756-B04A-485AC442E61A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5483595-B018-E281-BF02-D0F93EC0523B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5483595-B018-E281-BF02-D0F93EC0523B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5483595-B018-E281-BF02-D0F93EC0523B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5483595-B018-E281-BF02-D0F93EC0523B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8D68794-171F-1255-6474-DEDD93F75544}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8D68794-171F-1255-6474-DEDD93F75544}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8D68794-171F-1255-6474-DEDD93F75544}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8D68794-171F-1255-6474-DEDD93F75544}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D9E6AD6-A751-8756-B04A-485AC442E61A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D9E6AD6-A751-8756-B04A-485AC442E61A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D9E6AD6-A751-8756-B04A-485AC442E61A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D9E6AD6-A751-8756-B04A-485AC442E61A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
